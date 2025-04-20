@@ -1,7 +1,9 @@
 ## Bem-vindo a conta do Kauê - As melhores analises você encontra aqui🤓
 
-- 🔭 Trabalhando com Analise de Dados
+- 🔭 Estagiário em Analise de Dados
 - 📫 Email: kaueandrade04@hotmail.com
+- 🎓 Estudante: FESA (Faculdade Engenheiro Salvador Arena)
+- 💻 Linkedin: www.linkedin.com/in/kauê-dos-santos-andrade-945542281
 
 <div>
  <a href="https://github.com/Kaulin99/github-readme-stats">
